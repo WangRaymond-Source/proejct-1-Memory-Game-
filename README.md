@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+
 <img src="http://g.recordit.co/Rzbj4qRfkJ.gif" width = 250><br>
 <img src="http://g.recordit.co/c5Su1jtqb5.gif" width = 250><br>
 <img src="http://g.recordit.co/iXGBcqqqRP.gif" width = 250><br>
