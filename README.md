@@ -6,7 +6,7 @@ Submitted by: Raymond Wang
 
 Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/booming-sumptuous-offer?path=script.js%3A34%3A1
 
 ## Required Functionality
 
